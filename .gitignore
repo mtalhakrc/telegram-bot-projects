@@ -1,0 +1,13 @@
+# Herhangi bir alt dizinde .service içeren tüm dosyaları yoksay
+**/*.service
+**/*.json
+**/*.lock
+**/*.lock.json
+**/*.lock.yaml
+**/*.lock.yml
+**/*.lock.toml
+**/*.lock.md
+**/*.lock.txt
+**/*.lock.md
+.idea
+.DS_Store
